@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/Home.png)
+(screenshots/Home.png)
 
 ### Dashboard
 ![Dashboard](screenshots/Dashboard.png)
